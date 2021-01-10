@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "title": "Information",
+            "parent": "Main",
+            "directory": false,
+            "description": "Description of Program and intended purposes",
+            "id": "info"
+        },
+        {
+            "title": "Examples",
+            "parent": "Main",
+            "directory": true,
+            "description": "Example Programs to use in later projects",
+            "id": ""
+        },
+        {
+            "title": "Progress Bar",
+            "parent": "Examples",
+            "directory": false,
+            "description": "Simple Progress Bar",
+            "id": "prog"
+        },
+        {
+            "title": "Games",
+            "parent": "Main",
+            "directory": true,
+            "description": "Playable terminal based games",
+            "id": ""
+        },
+        {
+            "title": "Tetris",
+            "parent": "Games",
+            "directory": false,
+            "description": "Wait you don't know what tetris is?",
+            "id": "tetris"
+        }
+    ]
+}
